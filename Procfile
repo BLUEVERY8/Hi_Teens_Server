@@ -1,1 +1,1 @@
-web: gunicorn HOME.wsgi --log-file -
+web: gunicorn Hi_Teens_Server.wsgi --log-file -
